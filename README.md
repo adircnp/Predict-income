@@ -1,15 +1,78 @@
-<h1 align="center">oi 👋, Adir Gomes junior aqui</h1>
-<h3 align="center">Um cientista de dados, Amante de gatos e cozinheiro</h3>
+<h1 align="center">👋 Olá, eu sou Adir Gomes Junior</h1>
+<h3 align="center">Cientista de Dados | Machine Learning aplicado a Energia & Jurídico | Data Engineering</h3>
 
-- 🌱 Atualmente estudando **Machine learning**
+---
 
-- 💬 me pergunte sobre **Economia e filosofia que eu terei prazer em ajudar**
+## 🚀 Sobre mim
 
-- 📫 como me encontrar **adirgomes1@gmail.com**
+Sou Cientista de Dados com foco em:
 
+- 📊 Modelagem preditiva com foco financeiro (não apenas classificação)
+- ⚡ Detecção de fraude e recuperação de receita no setor elétrico
+- ⚖️ Jurimetria e ML aplicado a processos judiciais
+- 🧠 Otimização de regras regulatórias (ANEEL / REN 1000)
+- 🏗 Engenharia de dados escalável em Spark / Databricks
+- 📈 Modelos orientados a maximização de retorno financeiro
 
-<p align="left">
-</p>
+Atualmente aprofundando meus estudos em **Machine Learning avançado e arquitetura de pipelines robustas**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🎯 Principais Áreas de Atuação
+
+- Detecção de anomalias em séries temporais (consumo de energia)
+- Modelos de regressão para estimativa de impacto financeiro
+- Classificação calibrada para redução de falso negativo
+- Feature engineering jurídico-financeira
+- Estruturação de dados SAP (CCS) para analytics
+- Reestruturação e otimização de queries complexas
+
+---
+
+## 🛠 Tech Stack
+
+### 💾 Data & Engineering
+- Apache Spark
+- Databricks
+- SQL (SQL Server, Oracle, PostgreSQL, MySQL)
+- SAP CCS
+- ETL & Modelagem de Dados
+
+### 🤖 Machine Learning
+- Gradient Boosting (GBM / GBT)
+- Random Forest
+- Modelos calibrados
+- Análise de importância de variáveis
+- Detecção de Change Point
+- Modelos financeiros orientados a decisão
+
+### 🐍 Linguagem Principal
+- Python (Pandas, Scikit-Learn, PySpark)
+
+---
+
+## 📚 Interesses
+
+- Economia
+- Filosofia
+- Sistemas complexos
+- Teoria da decisão
+- Engenharia de modelos robustos
+
+---
+
+## 🐱 Fun Facts
+
+- Amante de gatos  
+- Cozinheiro nas horas vagas  
+- Obcecado por otimização de modelos e captura de valor  
+
+---
+
+## 📫 Contato
+
+📧 adirgomes1@gmail.com  
+
+---
+
+⭐ Sempre interessado em projetos que envolvam dados complexos, impacto financeiro real e tomada de decisão baseada em evidência.
