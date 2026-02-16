@@ -9,8 +9,8 @@ Sou Cientista de Dados com foco em:
 
 - 📊 Modelagem preditiva com foco financeiro (não apenas classificação)
 - ⚡ Detecção de fraude e recuperação de receita no setor elétrico
-- ⚖️ Jurimetria e ML aplicado a processos judiciais
-- 🧠 Otimização de regras regulatórias (ANEEL / REN 1000)
+- ⚖️ ML aplicado a processos judiciais
+- 🧠 Otimização de regras regulatórias
 - 🏗 Engenharia de dados escalável em Spark / Databricks
 - 📈 Modelos orientados a maximização de retorno financeiro
 
@@ -20,7 +20,7 @@ Atualmente aprofundando meus estudos em **Machine Learning avançado e arquitetu
 
 ## 🎯 Principais Áreas de Atuação
 
-- Detecção de anomalias em séries temporais (consumo de energia)
+- Detecção de anomalias em séries temporais
 - Modelos de regressão para estimativa de impacto financeiro
 - Classificação calibrada para redução de falso negativo
 - Feature engineering jurídico-financeira
